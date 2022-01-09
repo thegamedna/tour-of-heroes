@@ -1,6 +1,24 @@
-# TourOfHeroes
+# Tour Of Heroes Angular Application
 
+Made using the official docs tutorial from angular.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
+
+
+## Topics Covered
+
+~ Components
+
+~ Pipes
+
+~ Services
+
+~ Directives
+
+~ Observables
+
+~ Routing
+
+~ Http Requests
 
 ## Development server
 
